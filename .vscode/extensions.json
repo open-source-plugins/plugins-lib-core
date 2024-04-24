@@ -1,3 +1,7 @@
 {
-  "recommendations": ["Nightrains.robloxlsp", "evaera.vscode-rojo"]
+  "recommendations": [
+    "Nightrains.robloxlsp",
+    "evaera.vscode-rojo",
+    "tacheometrist.testez-companion"
+  ]
 }
