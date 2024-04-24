@@ -1,0 +1,12 @@
+{
+  "name": "plugins-lib-core",
+  "tree": {
+    "$className": "DataModel",
+
+    "ServerScriptService": {
+      "CoreLib": {
+        "$path": "src/"
+      }
+    }
+  }
+}
