@@ -5,7 +5,11 @@
 
     "ServerScriptService": {
       "CoreLib": {
-        "$path": "src/"
+        "$path": "src/",
+        "Tests": {
+          "$className": "Folder",
+          "$path": "./tests"
+        }
       }
     }
   }
